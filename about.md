@@ -9,7 +9,7 @@ permalink: /about/
 * Gender:  *Male*  
 * Hobbies:  
     + fishing  
-    + Diablo 2 [Link](https://www.blizzard.com/en-us/games/d2/)  
+    + [Diablo 2](https://www.blizzard.com/en-us/games/d2/)  
 * Pet:  
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Florida_Box_Turtle_Digon3.jpg/220px-Florida_Box_Turtle_Digon3.jpg)
 
