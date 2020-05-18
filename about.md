@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-# About me  
-## Dont't know what to put in the second title  
+## Don't know what to put in this second title  
 * Name:  **Kan Luo**  
 * ~~Age: (Teenager inside)~~  
 * Gender:  *Male*  
