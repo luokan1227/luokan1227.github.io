@@ -5,9 +5,9 @@ permalink: /about/
 ---
 #About me  
 ##Dont't know what to put in the second title  
-Name  -**Kan Luo**  
+Name  **Kan Luo**  
 ~~Age (Teenager inside)~~  
-Gender  -*Male*  
+Gender  *Male*  
 Hobbies  
     + fishing  
     + Diablo 2 [Link](https://www.blizzard.com/en-us/games/d2/)  
