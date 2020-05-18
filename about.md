@@ -8,7 +8,7 @@ permalink: /about/
 Name: **Kan Luo**  
 ~~Age (Teenager inside)~~  
 Gender: *Male*  
-Hobbies:
+Hobbies:  
     - fishing  
     - Diablo 2 [Link](https://www.blizzard.com/en-us/games/d2/)  
     - animals  
