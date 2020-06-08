@@ -12,14 +12,14 @@ This project includes:
 * Characters of JSON  
 Listed some characters of JSON format.
 * JSON data types (each includes Deinfiition, Syntax and Example)  
- - string  
- - number  
- - boolean  
- - object  
- - array  
- - null  
- - whitespace  
- - data types not available 
+    + string  
+    + number  
+    + boolean  
+    + object  
+    + array  
+    + null  
+    + whitespace  
+    + data types not available 
 * Where does JSON been used  
 The places we can JSON  
 * Why we use **JSON** to store data  
