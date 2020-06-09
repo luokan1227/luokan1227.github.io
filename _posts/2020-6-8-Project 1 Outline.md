@@ -22,8 +22,8 @@ Listed some characters of JSON format.
     + data types not available 
 * Where does JSON been used  
 The places we can JSON  
-* Why we use **JSON** to store data  
-Discussed the advantages of using JSON  
+* Why we use JSON to store data  
+Discussed the advantages of using JSON.  
 
 ## R Packages for reading JSON  
 * Pull a data  
@@ -46,3 +46,14 @@ Analysis categorical variables by contingency tables and numeric summaries.
 * Box plot view  
 * Scatter plot view  
 
+In this project, I practiced not only R coding, but also solving unexpected problems.  
+
+The first challenge I met is how to work on my local R-studio and commit my code to GitHub. I found [a useful link](https://happygitwithr.com/rstudio-git-github.html) which introduced this process step by step. It's very detailed for new learner.  
+
+Then I faced another problem, my R-studio couldn't handshake with the NHL API. I spend almost whole day on studing SSL/TSL handshake issues but still had no solution, until Dr. Post advised me to use VTL.  
+
+After I finished almost all my code, I found I couldn't knit it on the VTL, it reported something denied. Then it took me a while to find out the Rmd file can only knit when it under the S:\ drive, but not under any folder.  
+
+Every time I met those problems outside the coding, I felt frustrated, but when the problem been solved, I felt excited and encouraged. I think meet and solve problems are very important part of experience. Some problems worth do some research, some problems should use some smarter way to get rid of.  
+
+Using GitHub to post a website link is very useful. I think I can organzie my lab protocols and share them through GitHub links.  It will be easy for both our team members and other cooperators to access.  
